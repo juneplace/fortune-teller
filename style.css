@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	margin-bottom: 10px;
+	margin-top: 30px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 60px;
+	color: #3C2CA3;
+	font-variant: small-caps;
+}
+p {
+	margin-bottom: 30px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 30px;
+}
+body {
+	background-color: #4CF041;
+}
+
+#mainarea {
+	margin-top: 150px;
+}
+hr {
+	background-color: #3C2CA3;
+	margin-top: -10px;
+}
